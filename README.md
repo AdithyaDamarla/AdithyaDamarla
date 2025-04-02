@@ -58,6 +58,7 @@ I'm currently working on innovative robotics projects, focusing on advanced cont
 - RS 232
 - J1939
 - CAN calibration Protocols (CCP)
+- ISOBUS Protocol
 
 # 📊 GitHub Stats:
 

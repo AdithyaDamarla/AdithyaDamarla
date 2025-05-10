@@ -1,7 +1,7 @@
 <img src="image_20250122_115241.png" alt="GitHub Banner" width="35%" />
 
 # About Me:
-I'm currently working on innovative robotics projects, focusing on advanced control systems. I'm looking to collaborate on cutting-edge robotics applications and research. I'm seeking help with expanding my knowledge in emerging robotics technologies. I'm currently learning about the latest advancements in robotics and control systems. Ask me about my journey as a dedicated Robotics Engineer with over two years of experience, my proficiency in various tools and technologies.
+I'm currently working on innovative robotics projects, focusing on advanced control systems. I'm looking to collaborate on cutting-edge robotics applications and research. I'm seeking help with expanding my knowledge in emerging robotics technologies. I'm currently learning about the latest advancements in robotics and control systems. Ask me about my journey as a dedicated Robotics Engineer with over three years of experience, my proficiency in various tools and technologies.
 
 
 ## 🌐 Socials:

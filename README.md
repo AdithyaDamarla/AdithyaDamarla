@@ -15,6 +15,8 @@ I'm currently working on innovative robotics projects, focusing on advanced cont
 
 <img align="right" height="150" src="r.gif" />
 
+
+
 - Non-Linear Mechanical Control Systems, Control of Electrical Machines, Robot Mechanics, Sensor integration, Sensor Fusion, Internet of Things, Digital Electronics, Analogue Electronics, Pneumatics, Electro Pneumatics, P.L.C (Designing using ladder logic), Hydraulics, Power Electronics and Electrical Drives, Strength of Materials. 
 
 ## 💻 Programming:

@@ -55,14 +55,17 @@ I'm currently working on innovative robotics projects, focusing on advanced cont
 ## 📡 Communication Protocols: 
 
 <img align="right" height="180" src="r_3.gif" />
-
-- CAN bus  
+  
 - UART
 - SPI
 - RS 232
-- J1939
-- CAN calibration Protocols (CCP)
-- ISOBUS Protocol
+- CAN protocols
+  - CAN Standard
+  - CAN Extended
+  - J1939
+  - CAN Calibration Protocols (CCP)
+  - ISOBUS Protocol
+  - NMEA 2000 
 
 # 📊 GitHub Stats:
 

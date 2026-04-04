@@ -2,7 +2,7 @@
 
 
 # About Me:
-I'm currently working on innovative robotics projects, focusing on advanced control systems. I'm looking to collaborate on cutting-edge robotics applications and research. I'm seeking help with expanding my knowledge in emerging robotics technologies. I'm currently learning about the latest advancements in robotics and control systems. Ask me about my journey as a dedicated Robotics Engineer with over three years of experience, my proficiency in various tools and technologies.
+I'm currently working on innovative projects, focusing on advanced control systems and Sensor fusion. I'm looking to collaborate on cutting-edge autonomous system applications and research. I'm seeking help with expanding my knowledge in emerging flight control and robotics technologies. I'm currently learning about the latest advancements in robotics and flight control systems. Ask me about my journey as a dedicated Autonomous Control System Engineer with over three years of experience, my proficiency in various tools and technologies.
 
 
 ## 🌐 Socials:

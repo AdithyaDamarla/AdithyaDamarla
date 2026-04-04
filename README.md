@@ -18,14 +18,18 @@ I'm currently working on innovative projects, focusing on advanced control syste
 <img align="right" height="150" src="r.gif" />
 
 
-
-- Non-Linear Mechanical Control Systems, Control of Electrical Machines, Robot Mechanics, Sensor integration, Sensor Fusion, Internet of Things, Digital Electronics, Analogue Electronics, Pneumatics, Electro Pneumatics, P.L.C (Designing using ladder logic), Hydraulics, Power Electronics and Electrical Drives, Strength of Materials. 
+- Control Systems & Robotics: Non-Linear Mechanical Control Systems, Control of Electrical Machines, Robot Mechanics, Motion Control, Sensor Integration, Sensor Fusion
+- Autonomous Systems & Estimation: State Estimation, Navigation Algorithms, Motion Planning, Multi-Sensor Data Fusion (applied through Udacity Autonomous Systems Nanodegrees)
+- Electronics & Embedded Systems: Digital Electronics, Analog Electronics, Power Electronics, Electrical Drives, Internet of Things (IoT)
+- Automation & Industrial Systems: PLC Programming (Ladder Logic Design), Industrial Automation, Pneumatics, Electro-Pneumatics, Hydraulics
+- Mechanical Fundamentals: Strength of Materials
 
 ## 💻 Programming:
 - C 
 - C++ 
 - Python 
-- Java 
+- Java
+- Rust
 
 ## 🖥️ Operating Systems: 
 
